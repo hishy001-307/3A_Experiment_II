@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "jidoukeisokuseigyo"
+		},
+		{
+			"path": "../Downloads/05251549"
+		},
+		{
+			"path": "../Downloads/05251540"
+		}
+	],
+	"settings": {
+		"latex-workshop.view.pdf.viewer": "tab"
+	}
+}
