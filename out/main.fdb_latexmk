@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1769666221 "out/main.dvi" "out/main.pdf" "out/main" 1769666222 0
-  "out/main.dvi" 1769666221 4828 f15beba821c4a9e08559a3c78d23463d "latex"
+["dvipdf"] 1769667502 "out/main.dvi" "out/main.pdf" "out/main" 1769667502 0
+  "out/main.dvi" 1769667502 4836 39f4c1fe394ea0d69ea194b2b511c6a2 "latex"
   (generated)
   "out/main.pdf"
   (rewritten before read)
-["latex"] 1769666221 "/Users/hishy001.307/Desktop/メスバウアー効果/main.tex" "out/main.dvi" "main" 1769666222 0
-  "/Users/hishy001.307/Desktop/メスバウアー効果/main.tex" 1769666221 3180 e94f2d6538ed314d40aab78f52198ba3 ""
+["latex"] 1769667502 "/Users/hishy001.307/Desktop/3A_Experiment_II/main.tex" "out/main.dvi" "main" 1769667502 0
+  "/Users/hishy001.307/Desktop/3A_Experiment_II/main.tex" 1769667501 3183 ceb84f9fcc62a793567af650597202c7 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1246382020 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -100,8 +100,8 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/euptex/uplatex.fmt" 1691481271 7809411 d2e59f7180985900e6160fbff64124ea ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.tex" 1769666221 3180 e94f2d6538ed314d40aab78f52198ba3 ""
-  "out/main.aux" 1769666221 732 ee0b100d8ef832840f2b14af2af392f5 "latex"
+  "main.tex" 1769667501 3183 ceb84f9fcc62a793567af650597202c7 ""
+  "out/main.aux" 1769667502 732 ee0b100d8ef832840f2b14af2af392f5 "latex"
   (generated)
   "out/main.aux"
   "out/main.dvi"
